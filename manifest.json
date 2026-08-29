@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "reports": [
+    {
+      "id": "kennesaw-state-university-ga-pd-2026-01-22",
+      "agencyName": "Kennesaw State University GA PD",
+      "aliases": [
+        "Kennesaw State University",
+        "Kennesaw State University Raven",
+        "KSU"
+      ],
+      "reportDate": "2026-01-22",
+      "csvPath": "reports/kennesaw-state-university-ga-pd/2026-01-22.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "dunwoody-ga-pd-2026-03-24",
+      "agencyName": "Dunwoody GA PD",
+      "aliases": [
+        "Dunwoody GA Parks",
+        "Dunwoody GA PD Flex"
+      ],
+      "reportDate": "2026-03-24",
+      "csvPath": "reports/dunwoody-ga-pd/2026-03-24.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "carroll-county-ga-so-2026-04-15",
+      "agencyName": "Carroll County GA SO",
+      "aliases": [],
+      "reportDate": "2026-04-15",
+      "csvPath": "reports/carroll-county-ga-so/2026-04-15.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "dawson-county-ga-so-2026-04-17",
+      "agencyName": "Dawson County GA SO",
+      "aliases": [
+        "Dawsonville"
+      ],
+      "reportDate": "2026-04-17",
+      "csvPath": "reports/dawson-county-ga-so/2026-04-17.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "franklin-county-ga-so-2026-04-14",
+      "agencyName": "Franklin County GA SO",
+      "aliases": [
+        "Franklin County GA SO (Flex)"
+      ],
+      "reportDate": "2026-04-14",
+      "csvPath": "reports/franklin-county-ga-so/2026-04-14.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "hiram-ga-pd-2026-04-01",
+      "agencyName": "Hiram GA PD",
+      "aliases": [],
+      "reportDate": "2026-04-01",
+      "csvPath": "reports/hiram-ga-pd/2026-04-01.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "lumpkin-county-ga-so-2026-04-16",
+      "agencyName": "Lumpkin County SO (GA)",
+      "aliases": [],
+      "reportDate": "2026-04-16",
+      "csvPath": "reports/lumpkin-county-ga-so/2026-04-16.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "marietta-ga-pd-2026-04-09",
+      "agencyName": "Marietta GA PD",
+      "aliases": [
+        "Marietta GA PD - Falcon",
+        "Marietta GA PD - Flex",
+        "Marietta GA  - FlockOS Live Video",
+        "Marietta GA PD - Raven",
+        "Marietta GA PD - Condor"
+      ],
+      "reportDate": "2026-04-09",
+      "csvPath": "reports/marietta-ga-pd/2026-04-09.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "powder-springs-ga-pd-undated",
+      "agencyName": "Powder Springs GA PD",
+      "aliases": [],
+      "reportDate": null,
+      "csvPath": "reports/powder-springs-ga-pd/undated.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com. The source filename did not contain a defensible report date."
+      }
+    },
+    {
+      "id": "smyrna-ga-pd-2026-03-16",
+      "agencyName": "Smyrna GA PD",
+      "aliases": [
+        "Smyrna GA PD (Flex)",
+        "Smyrna GA PD (PTZ)",
+        "Smyrna GA PD - GA DOT test",
+        "Smyrna GA PD DFR",
+        "Smyrna GA PD-Trailers"
+      ],
+      "reportDate": "2026-03-16",
+      "csvPath": "reports/smyrna-ga-pd/2026-03-16.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    },
+    {
+      "id": "paulding-county-ga-so-2026-02-26",
+      "agencyName": "Paulding County GA SO",
+      "aliases": [],
+      "reportDate": "2026-02-26",
+      "csvPath": "reports/paulding-county-ga-so/2026-02-26.csv",
+      "provenance": {
+        "description": "Migrated from the sharing-report dataset previously published by ksualprs.com."
+      }
+    }
+  ]
+}
+

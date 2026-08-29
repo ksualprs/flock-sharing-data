@@ -1,0 +1,14 @@
+{
+  "name": "@ksualprs/flock-sharing-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate.mjs"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.3"
+  }
+}
+
